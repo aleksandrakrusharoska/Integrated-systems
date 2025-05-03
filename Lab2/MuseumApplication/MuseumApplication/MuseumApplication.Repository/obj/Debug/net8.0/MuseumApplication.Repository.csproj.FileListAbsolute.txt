@@ -1,0 +1,15 @@
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\bin\Debug\net8.0\MuseumApplication.Repository.deps.json
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\bin\Debug\net8.0\MuseumApplication.Repository.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\bin\Debug\net8.0\MuseumApplication.Repository.pdb
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\bin\Debug\net8.0\MuseumApplication.Domain.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\bin\Debug\net8.0\MuseumApplication.Domain.pdb
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.AssemblyInfo.cs
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumAp.D418E18A.Up2Date
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\refint\MuseumApplication.Repository.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\MuseumApplication.Repository.pdb
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Repository\obj\Debug\net8.0\ref\MuseumApplication.Repository.dll

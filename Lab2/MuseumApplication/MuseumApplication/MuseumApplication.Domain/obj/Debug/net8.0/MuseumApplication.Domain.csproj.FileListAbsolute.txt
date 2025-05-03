@@ -1,0 +1,12 @@
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\bin\Debug\net8.0\MuseumApplication.Domain.deps.json
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\bin\Debug\net8.0\MuseumApplication.Domain.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\bin\Debug\net8.0\MuseumApplication.Domain.pdb
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.AssemblyInfo.cs
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\refint\MuseumApplication.Domain.dll
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\MuseumApplication.Domain.pdb
+C:\Users\darso\source\repos\MuseumApplication\MuseumApplication.Domain\obj\Debug\net8.0\ref\MuseumApplication.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\bin\Debug\net8.0\LibraryRepository.deps.json
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\bin\Debug\net8.0\LibraryRepository.dll
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\bin\Debug\net8.0\LibraryRepository.pdb
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\bin\Debug\net8.0\LibraryDomain.dll
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\bin\Debug\net8.0\LibraryDomain.pdb
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.csproj.AssemblyReference.cache
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.AssemblyInfoInputs.cache
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.AssemblyInfo.cs
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.csproj.CoreCompileInputs.cache
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryR.AD03A99E.Up2Date
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.dll
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\refint\LibraryRepository.dll
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\LibraryRepository.pdb
+C:\Users\ganto\source\repos\LibraryApplication\LibraryRepository\obj\Debug\net8.0\ref\LibraryRepository.dll

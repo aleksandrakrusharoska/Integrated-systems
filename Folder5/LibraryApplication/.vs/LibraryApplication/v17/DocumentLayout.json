@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\implementations\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\implementations\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryrepository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|solutionrelative:libraryrepository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryrepository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|solutionrelative:libraryrepository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryrepository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|solutionrelative:libraryrepository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\interfaces\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\interfaces\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryrepository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB8BC57-C98B-4089-A49A-660505C848C5}|LibraryRepository\\LibraryRepository.csproj|solutionrelative:libraryrepository\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\relationship\\booksinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\relationship\\booksinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\relationship\\booksinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\relationship\\booksinshoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\domain\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryservice\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE5D473-5278-47E7-AA7C-4E405CF9DA9D}|LibraryService\\LibraryService.csproj|solutionrelative:libraryservice\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\librarydomain\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A5BB54-A880-4CC6-AD4D-9F10E3D2AA6D}|LibraryDomain\\LibraryDomain.csproj|solutionrelative:librarydomain\\dtos\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|c:\\users\\ganto\\source\\repos\\libraryapplication\\libraryweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E2EA2F-3AB9-4014-B430-02FB59DCE959}|LibraryWeb\\LibraryWeb.csproj|solutionrelative:libraryweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 217,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "LibraryRepository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "LibraryRepository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:16:17.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryRepository\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "LibraryRepository\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryRepository\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "LibraryRepository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:14:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Email\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Email\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Email\\EmailSettings.cs",
+              "RelativeToolTip": "LibraryDomain\\Email\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:10:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\appsettings.json",
+              "RelativeToolTip": "LibraryWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T17:06:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1815683203:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1418685207:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "LibraryService\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:00:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Email\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Email\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Email\\EmailMessage.cs",
+              "RelativeToolTip": "LibraryDomain\\Email\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:59:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "LibraryService\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:58:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryRepository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryRepository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryRepository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:39:06.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BooksInShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Relationship\\BooksInShoppingCart.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Relationship\\BooksInShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Relationship\\BooksInShoppingCart.cs",
+              "RelativeToolTip": "LibraryDomain\\Relationship\\BooksInShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:38:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Relationship\\BooksInOrder.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Relationship\\BooksInOrder.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Relationship\\BooksInOrder.cs",
+              "RelativeToolTip": "LibraryDomain\\Relationship\\BooksInOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:37:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Domain\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\ShoppingCart.cs",
+              "RelativeToolTip": "LibraryDomain\\Domain\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:37:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\Order.cs",
+              "RelativeToolTip": "LibraryDomain\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:37:05.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\BookService.cs",
+              "RelativeToolTip": "LibraryService\\Implementations\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:30:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryService\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:31:54.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryWeb\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryWeb\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T16:31:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryWeb\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryWeb\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T16:31:00.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T16:29:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\DTOs\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\DTOs\\ShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\DTOs\\ShoppingCartDto.cs",
+              "RelativeToolTip": "LibraryDomain\\DTOs\\ShoppingCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:16:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryDomain\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryDomain\\Domain\\Book.cs",
+              "RelativeToolTip": "LibraryDomain\\Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:16:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "LibraryWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T16:14:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Program.cs",
+              "RelativeToolTip": "LibraryWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:13:13.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Interfaces\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Interfaces\\IShoppingCartService.cs",
+              "RelativeToolTip": "LibraryService\\Interfaces\\IShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:11:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "LibraryService\\Implementations\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryService\\Implementations\\ShoppingCartService.cs",
+              "RelativeToolTip": "LibraryService\\Implementations\\ShoppingCartService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:10:37.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryWeb\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryWeb\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:10:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:10:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "LibraryWeb\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\LibraryApplication\\LibraryWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "LibraryWeb\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:10:09.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

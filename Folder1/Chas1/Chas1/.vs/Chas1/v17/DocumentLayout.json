@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganto\\source\\repos\\Chas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\implementation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\implementation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\interface\\ilibraryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\interface\\ilibraryinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\researchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\researchuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\interface\\ibookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\interface\\ibookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\studentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\studentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\regularuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\regularuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|c:\\users\\ganto\\source\\repos\\chas1\\chas1\\interface\\ilibraryuserborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{190D79F8-C1D6-4F3C-B1B0-3EB71CD0866C}|Chas1\\Chas1.csproj|solutionrelative:chas1\\interface\\ilibraryuserborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1815683203:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1418685207:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Implementation\\Library.cs",
+              "RelativeDocumentMoniker": "Chas1\\Implementation\\Library.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Implementation\\Library.cs",
+              "RelativeToolTip": "Chas1\\Implementation\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:15:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryInterface.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\ILibraryInterface.cs",
+              "RelativeDocumentMoniker": "Chas1\\Interface\\ILibraryInterface.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\ILibraryInterface.cs",
+              "RelativeToolTip": "Chas1\\Interface\\ILibraryInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:13:55.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\IBookManagement.cs",
+              "RelativeDocumentMoniker": "Chas1\\Interface\\IBookManagement.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\IBookManagement.cs",
+              "RelativeToolTip": "Chas1\\Interface\\IBookManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:04:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResearchUser.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\ResearchUser.cs",
+              "RelativeDocumentMoniker": "Chas1\\ResearchUser.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\ResearchUser.cs",
+              "RelativeToolTip": "Chas1\\ResearchUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:02:34.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentUser.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\StudentUser.cs",
+              "RelativeDocumentMoniker": "Chas1\\StudentUser.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\StudentUser.cs",
+              "RelativeToolTip": "Chas1\\StudentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:01:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegularUser.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\RegularUser.cs",
+              "RelativeDocumentMoniker": "Chas1\\RegularUser.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\RegularUser.cs",
+              "RelativeToolTip": "Chas1\\RegularUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:00:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILibraryUserBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\ILibraryUserBorrowing.cs",
+              "RelativeDocumentMoniker": "Chas1\\Interface\\ILibraryUserBorrowing.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Interface\\ILibraryUserBorrowing.cs",
+              "RelativeToolTip": "Chas1\\Interface\\ILibraryUserBorrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:53:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Book.cs",
+              "RelativeDocumentMoniker": "Chas1\\Book.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Book.cs",
+              "RelativeToolTip": "Chas1\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:50:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "Chas1\\LibraryUser.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\LibraryUser.cs",
+              "RelativeToolTip": "Chas1\\LibraryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:13.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Program.cs",
+              "RelativeDocumentMoniker": "Chas1\\Program.cs",
+              "ToolTip": "C:\\Users\\ganto\\source\\repos\\Chas1\\Chas1\\Program.cs",
+              "RelativeToolTip": "Chas1\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:54:26.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

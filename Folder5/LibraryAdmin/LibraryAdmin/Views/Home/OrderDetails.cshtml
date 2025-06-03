@@ -1,0 +1,32 @@
+﻿@model Order
+@{
+    ViewBag.Title = "Order";
+    Layout = "_Layout";
+}
+
+
+<div class="container">
+    <div class="row text-center">
+        <h1>@($"{Model.LibraryUser.FirstName} {Model.LibraryUser.LastName} - {Model.LibraryUser.Email}")</h1>
+    </div>
+
+    <div class="row d-flex justify-content-between">
+        @foreach (var book in Model.BooksInOrder)
+        {
+            <div class="col-3">
+
+                <div class="card" style="width: 18rem;">
+                    <img src="@book.Book?.Image" class="card-img-top" height="200px">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@book.Book?.Title</h5>
+                        <p class="card-text">@book.Book?.Author</p>
+                        <p class="card-text">Price: @book.Book?.Price</p>
+                        <p class="card-text">Quantity: @book.Quantity</p>
+                        <p class="card-text">Total Price: @(book.Book?.Price * book.Quantity)</p>
+                    </div>
+                </div>
+
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@model List<Order>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row mb-3">
+        <a class="btn btn-success col-2 ms-auto" asp-action="ExportOrders">Export Orders</a>
+    </div>
+    <div class="row">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Order Number</th>
+                <th>Customer</th>
+                <th>Number of books</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </thead>
+            <tbody>
+            @for (var i = 0; i < Model.Count; i++)
+            {
+                var order = Model[i];
+
+                <tr>
+                    <td>@(i + 1)</td>
+                    <td>@($"{order.LibraryUser.FirstName} {order.LibraryUser.LastName} - {order.LibraryUser.Email}")</td>
+                    <td>@order.BooksInOrder.Count()</td>
+                    <td>
+                        <a class="btn btn-primary" asp-action="OrderDetails" asp-route-id="@order.Id">Details</a>
+                    </td>      
+                    <td>
+                        <a class="btn btn-secondary" asp-action="CreateInvoice" asp-route-id="@order.Id">Create Invoice</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>

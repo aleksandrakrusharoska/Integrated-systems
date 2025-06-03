@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "LibraryWeb.Controllers.API.AdminController",
+    "Method": "GetAllOrders",
+    "RelativePath": "api/Admin/GetAllOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryWeb.Controllers.API.AdminController",
+    "Method": "GetOrderById",
+    "RelativePath": "api/Admin/GetOrderById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryWeb.Controllers.API.AdminController",
+    "Method": "ImportUsers",
+    "RelativePath": "api/Admin/ImportUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "users",
+        "Type": "System.Collections.Generic.List\u00601[[LibraryDomain.DTOs.CreateUserDto, LibraryDomain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

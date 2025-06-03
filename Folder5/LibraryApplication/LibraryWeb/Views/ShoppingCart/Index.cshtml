@@ -1,0 +1,63 @@
+﻿@inject IOptions<StripeSettings> Stripe
+@using LibraryDomain.Integrations
+@using Microsoft.Extensions.Options
+@model LibraryDomain.DTOs.ShoppingCartDto
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+
+<div class="container">
+    <div class="row">
+        @* <a class="btn btn-success" asp-action="Order">Order</a> *@
+        @if (Model.TotalPrice > 0)
+        {
+            <form asp-action="PayOrder" method="post">
+                <article>
+                    <script src="https://checkout.stripe.com/checkout.js"
+                            class="stripe-button"
+                            data-key="@Stripe.Value.PublishableKey"
+                            data-locale="auto"
+                            data-description="Library Application Payment"
+                            data-amount="@(Model.TotalPrice * 100)"
+                            data-label="Pay $@Model.TotalPrice"></script>
+                </article>
+            </form>
+        }
+
+    </div>
+    <div class="row mt-3">
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Book Title</th>
+                <th>Author</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total Price</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var book in Model.BooksInShoppingCart)
+            {
+                <tr>
+                    <td>@book.Book.Title</td>
+                    <td>@book.Book.Author</td>
+                    <td>@book.Book.Price</td>
+                    <td>@book.Quantity</td>
+                    <td></td>
+                </tr>
+            }
+            </tbody>
+            <tfoot>
+            <tr>
+                <td>Total Price:</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>@Model.TotalPrice</td>
+            </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>

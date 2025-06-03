@@ -1,0 +1,11 @@
+[
+  {
+    "TestName": "OnionArchitectureTests.Controllers_Should_Not_Depend_On_ApplicationDbContext",
+    "StudentId": "YOUR_INDEX_HERE",
+    "TestCategory": "OnionArchitecture",
+    "IsPassed": false,
+    "ExecutedAt": "2025-05-25T20:24:11.1377392+02:00",
+    "ErrorMessage": "Could not find ApplicationDbContext or any DbContext subclass. Check if Entity Framework Core is properly referenced.",
+    "Points": 10
+  }
+]

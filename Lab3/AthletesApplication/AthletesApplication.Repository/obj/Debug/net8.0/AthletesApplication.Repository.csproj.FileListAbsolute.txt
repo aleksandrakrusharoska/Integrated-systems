@@ -1,0 +1,15 @@
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\bin\Debug\net8.0\AthletesApplication.Repository.deps.json
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\bin\Debug\net8.0\AthletesApplication.Repository.dll
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\bin\Debug\net8.0\AthletesApplication.Repository.pdb
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\bin\Debug\net8.0\AthletesApplication.Domain.dll
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\bin\Debug\net8.0\AthletesApplication.Domain.pdb
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.csproj.AssemblyReference.cache
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.AssemblyInfo.cs
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\Athletes.903F047E.Up2Date
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.dll
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\refint\AthletesApplication.Repository.dll
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\AthletesApplication.Repository.pdb
+C:\Users\221005\Downloads\AthletesApplication\AthletesApplication\AthletesApplication.Repository\obj\Debug\net8.0\ref\AthletesApplication.Repository.dll
